@@ -1,4 +1,6 @@
-# Cloud-Based Inventory Management System
+# Inventory Management System
+
+<img scr="https://raw.githubusercontent.com/Harsh971/inventory-management-system/refs/heads/master/structure.gif">
 
 This project is an end-to-end inventory management system featuring:
 
@@ -57,6 +59,12 @@ This project provides a fully containerized inventory management system with the
 - **Dockerized:** Simple setup with Docker and Docker Compose.
 - **Kubernetes Ready:** YAML configurations for cloud or local Kubernetes clusters.
 - **Extensible UI:** (Optional) Starter templates using Flask's Jinja2.
+
+---
+
+## Project Architecture
+
+- [Click Here](https://raw.githubusercontent.com/Harsh971/inventory-management-system/refs/heads/master/structure.png)
 
 ---
 
